@@ -1,0 +1,3 @@
+A .NET project for use in the CI/CD setup of a Azure DevOps pipeline. This demo can be used for a build and release pipeline
+
+I think we can make this pipeline better by introducing variable groups to trigger the different stages...
